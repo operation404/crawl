@@ -1,0 +1,16 @@
+turned base fighter
+starts in 2x2 grid
+[][]
+[][]
+random room
+enemies/items in each room
+move to any adjacent room
+once all rooms cleared, move to next floor
+each floor increases, 3x3, 4x4, so on...
+[][][]
+[][][]
+[][][]
+infinite floors
+combat is turn based
+simple stats, health, damage, defense
+items give small boosts/heal etc
